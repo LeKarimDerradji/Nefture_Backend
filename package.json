@@ -1,0 +1,13 @@
+{
+  "name": "quest_nefture",
+  "version": "1.0.0",
+  "description": "quest for Nefture interview",
+  "main": "index.js",
+  "author": "Karim Derradji",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pg": "^8.11.0",
+    "sequelize": "^6.31.1"
+  }
+}
